@@ -2,17 +2,15 @@
 
 ## Phase 1: Planning & Strategy
 
-- [ ] Research and define Architectural Roadmap
-- [ ]  Create Implementation Plan
-- [ ]  Define Database Schema
+- [x] Research and define Architectural Roadmap
+- [x]  Create Implementation Plan
+- [x]  Define Database Schema
 
 ## Phase 2: Refactoring & Modularization
 
-- [ ]  Split 
-    
-    index.html into ES Modules
-- [ ]  Move CSS to dedicated files
-- [ ]  Setup clean folder structure
+- [x]  Split index.html into ES Modules
+- [x]  Move CSS to dedicated files
+- [x]  Setup clean folder structure
 
 ## Phase 3: Offline-First Data Layer
 
